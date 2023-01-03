@@ -1,8 +1,5 @@
 # Tugas-Client-Server-Teori
 
-
-![Img 1](image/judul.png)
-
 ## Agenda
 
 * Pengenalan Spring
